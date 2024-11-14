@@ -1,0 +1,20 @@
+{
+    "font": {
+        "lfCharSet": 1,
+        "lfClipPrecision": 2,
+        "lfEscapement": 0,
+        "lfFaceName": "Kristen ITC",
+        "lfHeight": -30,
+        "lfItalic": false,
+        "lfOrientation": 0,
+        "lfOutPrecision": 3,
+        "lfPitchAndFamily": 66,
+        "lfQuality": 1,
+        "lfStrikeOut": false,
+        "lfUnderline": false,
+        "lfWeight": 400,
+        "lfWidth": 0
+    },
+    "show-status-bar": false,
+    "zoom": 100
+}
