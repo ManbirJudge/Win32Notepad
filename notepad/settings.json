@@ -1,20 +1,20 @@
 {
     "font": {
         "lfCharSet": 1,
-        "lfClipPrecision": 2,
+        "lfClipPrecision": 0,
         "lfEscapement": 0,
-        "lfFaceName": "Kristen ITC",
-        "lfHeight": -30,
+        "lfFaceName": "Courier New",
+        "lfHeight": -16,
         "lfItalic": false,
         "lfOrientation": 0,
-        "lfOutPrecision": 3,
-        "lfPitchAndFamily": 66,
-        "lfQuality": 1,
+        "lfOutPrecision": 0,
+        "lfPitchAndFamily": 32,
+        "lfQuality": 0,
         "lfStrikeOut": false,
         "lfUnderline": false,
         "lfWeight": 400,
         "lfWidth": 0
     },
-    "show-status-bar": false,
+    "show-status-bar": true,
     "zoom": 100
 }

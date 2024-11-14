@@ -36,9 +36,13 @@
     <Filter Include="Include\nlohmann">
       <UniqueIdentifier>{ebda67fa-5291-40c6-99a3-8debfeb484b0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{70dc8054-999d-40a0-909c-60ee50b248b8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="C:\Users\manbi\Downloads\notepad-icon_34386.ico" />
-    <Image Include="C:\Users\manbi\Downloads\icon.ico" />
+    <Image Include="icon.ico">
+      <Filter>Assets</Filter>
+    </Image>
   </ItemGroup>
 </Project>

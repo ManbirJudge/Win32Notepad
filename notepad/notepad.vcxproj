@@ -73,9 +73,11 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <IncludePath>D:\Manbir\Programming\9. Win32 Notepad\notepad\include;$(IncludePath)</IncludePath>
+    <TargetName>notepad</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <IncludePath>D:\Manbir\Programming\9. Win32 Notepad\notepad\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
+    <TargetName>notepad</TargetName>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -161,8 +163,7 @@
     <Manifest Include="main.manifest" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="C:\Users\manbi\Downloads\icon.ico" />
-    <Image Include="C:\Users\manbi\Downloads\notepad-icon_34386.ico" />
+    <Image Include="icon.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
